@@ -13,6 +13,10 @@
   }
 }
 
+html, body {
+  overflow-x: hidden;
+}
+
 .App-header {
   background-color: lightcyan;
   min-height: 100vh;
@@ -43,10 +47,13 @@
   margin: 25px 0;
   font-size: 0.9em;
   font-family: sans-serif;
-  min-width: 400px;
+  width: 500px;
+  min-width: 300px;
+  max-width: 90vw;
   color: black;
   background-color: white;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+
 }
 
 .styled-table thead tr {

@@ -7,7 +7,7 @@ export default function RiderProfile({ name, id, location, setList }){
 
     return(
         <div className="profile">
-            <h1 onClick={() => setList(true)}>{'< Back'}</h1>
+            <h1 onClick={() => setList(true)}>{'<< Back'}</h1>
             <div className="image-logo">
                 <img className="face" alt="face" src={face} />
                 <img className="logo" alt="logo" src={logo} />

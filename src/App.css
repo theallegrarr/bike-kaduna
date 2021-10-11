@@ -96,14 +96,16 @@ img {
 .profile {
   display: flex;
   flex-direction: column;
-  min-width: 400px;
+  min-width: 300px;
   width: 400px;
+  max-width: 90vw;
 }
 
 .profile h1 {
   text-align: left;
   color: #009879;
-  font-size: larger;
+  font-size: large;
+  font-weight: 900;
   cursor: pointer;
 }
 
@@ -137,6 +139,9 @@ img {
 
 @media screen and (max-width: 900px) {
   .styled-table {
+    width: 300px;
+  }
+  .profile {
     width: 300px;
   }
 }

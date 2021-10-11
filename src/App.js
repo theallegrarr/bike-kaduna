@@ -23,6 +23,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <div>Bike ----------- Reg </div>
         {
           bikes.map((item, index) => (
             <div key={index}>{item.model} | {item.reg}</div>

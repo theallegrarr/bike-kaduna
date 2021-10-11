@@ -91,3 +91,9 @@ tr:hover {
 img {
   width: 200px;
 }
+
+@media screen and (max-width: 900px) {
+  .styled-table {
+    width: 300px;
+  }
+}

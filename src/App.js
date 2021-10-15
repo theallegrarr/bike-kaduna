@@ -13,6 +13,7 @@ function App() {
   const [bikes, setBikes] = useState(bikes_)
 
   const searchList = async (text) => {
+    text=text.toLocaleLowerCase();
     const result = []
 
     if(text.length === 0){

@@ -72,6 +72,7 @@ tr:hover {
 .styled-table td {
     text-align: left;
     padding: 12px 15px;
+    font-size: 10pt;
 }
 
 .styled-table tbody tr {

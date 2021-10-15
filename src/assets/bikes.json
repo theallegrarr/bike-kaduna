@@ -1,0 +1,4112 @@
+[
+  {
+    "Name": "Sani Muhammad",
+    "Plate No": "GWN 704 UU",
+    "Bike Type": "Old OCP",
+    "Year": 2019,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ibrahim Hashimu",
+    "Plate No": "GWN 707 UU",
+    "Bike Type": "Old OCP",
+    "Year": 2019,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Nafiu Yunusa",
+    "Plate No": "GML 301 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Jibril Aliyu",
+    "Plate No": "KYW 031 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Hassan Yahaya",
+    "Plate No": "BBR 234 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Murtala Musa",
+    "Plate No": "BBR 222 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Badamasi Isah",
+    "Plate No": "BBR 211 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "nathan markus",
+    "Plate No": "KYW 030 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Akila Bala",
+    "Plate No": "BBR 248 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Francis Gowon",
+    "Plate No": "GML 306 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ibrahim Halliru",
+    "Plate No": "KYW 029 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Sani Lawal",
+    "Plate No": "GML 316 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Idris Mukhtar",
+    "Plate No": "BBR 241 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ayuba Felix",
+    "Plate No": "GML 312 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Zakariyya Isah",
+    "Plate No": "GML 327 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "kabiru dauda",
+    "Plate No": "GML 300 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Joshua Bala",
+    "Plate No": "GML 303 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ibrahim Musa",
+    "Plate No": "KYW 027 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Nasiru Ya'u",
+    "Plate No": "BBR 235 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Musa Yakubu",
+    "Plate No": "KYW 026 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Idris Aliyu",
+    "Plate No": "GML 290 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Naziru Mahmud",
+    "Plate No": "BBR 231 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Shehu Aliyu",
+    "Plate No": "KYW 025 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Aliyu Muhammed",
+    "Plate No": "BBR 237 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Hussaini Muhammad",
+    "Plate No": "GML 319 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Aliyu Haruna",
+    "Plate No": "GML 297 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Tasiu haruna",
+    "Plate No": "KYW 032 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Muhammad Rabiu",
+    "Plate No": "GML 322 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Haruna Nuhu",
+    "Plate No": "BBR 245 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Yusuf Musa",
+    "Plate No": "GML 295 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Bashir Isah",
+    "Plate No": "KYW 024 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Peter Titus",
+    "Plate No": "GML 296 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Bashir Sani",
+    "Plate No": "BBR 238 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abubakar Yusuf",
+    "Plate No": "GML 308 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Jaafar Musa",
+    "Plate No": "HJA 500 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Aliyu Adamu Galadima",
+    "Plate No": "GML 326 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "sulaiman Idris",
+    "Plate No": "BBR 219 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Iliya Umar",
+    "Plate No": "BBR 223 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Shedrack Caleb",
+    "Plate No": "GML 313 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abubakar Adamu",
+    "Plate No": "BBR 214 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Emmanuel Ishaya",
+    "Plate No": "BBR 236 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Faruq Garba",
+    "Plate No": "GML 291 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Sunusi Munkaila",
+    "Plate No": "BBR 205 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Shafiu Haruna",
+    "Plate No": "GML 294 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Gaddafi Sulaiman",
+    "Plate No": "BBR 220 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "iliyasu sani",
+    "Plate No": "KYW 028 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Nazifi Saleh",
+    "Plate No": "GML 329 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Aliyu Murtala",
+    "Plate No": "BBR 224 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Munkaila Ya'u",
+    "Plate No": "KYW 020 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Sabi'u Shittu",
+    "Plate No": "KYW 019 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Zakariyya Dikko",
+    "Plate No": "BBR 239 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Hamisu Salisu",
+    "Plate No": "GML 336 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Nasiru Abdullahi",
+    "Plate No": "BBR 240 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Bello Mohammed",
+    "Plate No": "BBR 213 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Sagir Musa",
+    "Plate No": "BBR 209 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Yahaya Naziru",
+    "Plate No": "GML 314 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Mansur Mamuda",
+    "Plate No": "BBR 242 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Shamsudden Shitu",
+    "Plate No": "GML 331 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abdullahi Muazu",
+    "Plate No": "GML 315 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Sulaiman Saidu",
+    "Plate No": "KYW 021 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Lawal Hashimu",
+    "Plate No": "BBR 232 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Musa Sani",
+    "Plate No": "GML 330 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Murtala Abdu",
+    "Plate No": "GML 318 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Buhari Isiya",
+    "Plate No": "GML 321 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ibrahim Abubakar",
+    "Plate No": "GML 320 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Yunusa Shafi'u",
+    "Plate No": "BBR 243 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Buhari Ibrahim",
+    "Plate No": "BBR 229 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Anas Imamuddin",
+    "Plate No": "BBR 215 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Munkailu Saleh",
+    "Plate No": "BBR 218 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Sharhabilu Abubakar",
+    "Plate No": "BBR 221 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Istifanus Bawa",
+    "Plate No": "GML 298 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Nuhu Abdullahi",
+    "Plate No": "GML 323 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Idris Shuaibu",
+    "Plate No": "BBR 212 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Jamilu Musa",
+    "Plate No": "BBR 230 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Dominic Emmanuel",
+    "Plate No": "GML 302 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ajisham irmiya",
+    "Plate No": "GML 304 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abdulrashid Ibrahim",
+    "Plate No": "GML 310 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Jabiru Abubakar",
+    "Plate No": "GML 324 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Bala Yau",
+    "Plate No": "GML 325 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Maharazu Bashir",
+    "Plate No": "GML 317 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "shuaibu adamu",
+    "Plate No": "GML 311 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Stephen jacob",
+    "Plate No": "GML 305 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Isah Phillibus",
+    "Plate No": "BBR 247 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Suleiman Adamu kauru",
+    "Plate No": "GML 307 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Shamuweel Hassan",
+    "Plate No": "BBR 244 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Mustapha Dahiru",
+    "Plate No": "BBR 217 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Rabilu Umar",
+    "Plate No": "BBR 226 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Jamilu Musa Imam",
+    "Plate No": "BBR 210 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Mohammed Salisu",
+    "Plate No": "BBR 206 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Hashim Umar",
+    "Plate No": "GML 345 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Aminu Saidu",
+    "Plate No": "GML 343 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Adamu Aliyu",
+    "Plate No": "GML 340 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Hambali Surajo",
+    "Plate No": "BBR 204 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Kabiru Dahiru",
+    "Plate No": "BBR 216 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Alhassan Kabiru Waziri",
+    "Plate No": "GML 342 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "shitu dantani",
+    "Plate No": "BBR 208 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Kasimu Salisu",
+    "Plate No": "BBR 225 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abubakar Abdulra'uf",
+    "Plate No": "KYW 023 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ayuba Hycienth",
+    "Plate No": "GML 341 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Muntari Haruna",
+    "Plate No": "GML 344 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Aliyu Yahuza",
+    "Plate No": "BBR 246 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Adamu Magaji",
+    "Plate No": "KYW 022 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Usman Yohanna",
+    "Plate No": "GML 337 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "moses rowland",
+    "Plate No": "GML 309 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Suleiman Adamu Kubau",
+    "Plate No": "GML 299 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Haruna Idris",
+    "Plate No": "BBR 233 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Hussaini Ahmed",
+    "Plate No": "BBR 207 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Mustapha Abdul'aziz",
+    "Plate No": "GML 339 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Haruna Salisu",
+    "Plate No": "HJA 499 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Rabiu Tasiu",
+    "Plate No": "GYA-771QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2019,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Yushua Suleiman",
+    "Plate No": "GML-249QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ibrahim Alkali",
+    "Plate No": "HJA-428QJ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abdullahi Tanimu",
+    "Plate No": "GML-275QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Musa Zubairu",
+    "Plate No": "HJA-440QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abbas Saadu",
+    "Plate No": "HJA-423QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Bitrus Sale",
+    "Plate No": "GML-248QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ibrahim Ayuba",
+    "Plate No": "GML-272QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Muhammad bature",
+    "Plate No": "GYA -770QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2019,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Alkasim Ya'u Abubakar",
+    "Plate No": "RNG-141UM",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Shuaibu Hashimu",
+    "Plate No": "RNG-153UM",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abdulrashid Abubakar",
+    "Plate No": "RNG-158UM",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Anas Alhassan",
+    "Plate No": "RNG-140UM",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abdulrahaman Ayuba",
+    "Plate No": "GML-250QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ahmadu Bello Nuhu",
+    "Plate No": "GML-259QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Nura Munkaila",
+    "Plate No": "RNG-145UM",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Surajo Saidu",
+    "Plate No": "GML-252QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Yakubu Adamu",
+    "Plate No": "HJA-422QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Danlami Aliyu",
+    "Plate No": "RNG-142UM",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Suleiman Abdulsalam",
+    "Plate No": "GYA-809QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Buhari Suleman",
+    "Plate No": "GML-254QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Geoffrey Bitrus",
+    "Plate No": "HJA-427QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Hashimu Aliyu",
+    "Plate No": "GYA-795OA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Usman Abubakar",
+    "Plate No": "RNGL-147UM",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abdulkarim Yahaya",
+    "Plate No": "GYA -768QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Umar Danwada Wakili",
+    "Plate No": "GML-278QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Shuaibu Haruna",
+    "Plate No": "RNG-167UM",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Kabiru Isah",
+    "Plate No": "HJA-424QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Saidu Ashafa",
+    "Plate No": "GML-276QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Tukur Shuaibu",
+    "Plate No": "GML-251QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Nasiru Shehu",
+    "Plate No": "GML-253QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Muazu Aliyu",
+    "Plate No": "BBR-230VC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Sunusi Umar",
+    "Plate No": "HJA-421QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Salisu Bello",
+    "Plate No": "HJA-446QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Mustapha Garba",
+    "Plate No": "GYA-772QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2019,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Saleh Adamu",
+    "Plate No": "GYA765QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2019,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abbas Aliyu",
+    "Plate No": "GYA-777QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2019,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Hamza Nura",
+    "Plate No": "GYA-782QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2019,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Shuaibu Saminu",
+    "Plate No": "KHS 495 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Anthony Ishaya",
+    "Plate No": "KHS 496 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Adulrauf Muhammed",
+    "Plate No": "KHS 497 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abdullahi Yahaya",
+    "Plate No": "KHS 498 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Yasir Abubakar",
+    "Plate No": "KHS 499 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Shuaibu Haruna",
+    "Plate No": "KHS 500 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ibrahim Ladan",
+    "Plate No": "KHS 501 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Tauna Bitrus",
+    "Plate No": "KHS 502 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Sabiu Shehu",
+    "Plate No": "KHS 503 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Peter Japhet",
+    "Plate No": "KHS 504 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Auwal Muazu",
+    "Plate No": "KHS 507 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Joshua Lucky",
+    "Plate No": "MGA 522 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Bitrus James",
+    "Plate No": "MGA 523 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Sadiq Ibrahim",
+    "Plate No": "MGA 524 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Audu Wada",
+    "Plate No": "MGA 525 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Tabitha Danladi",
+    "Plate No": "MGA 529 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Muhammad Sulaiman",
+    "Plate No": "MGA 530 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Buhari Alhassan",
+    "Plate No": "MGA 531 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Micheal Ayuba",
+    "Plate No": "MGA 532 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Hamisu Basiru",
+    "Plate No": "MGA 533 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Jabir Abubakar",
+    "Plate No": "MGA 534 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Daniel Audu",
+    "Plate No": "MGA 535 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abdulkadir Sirajo",
+    "Plate No": "MGA 536 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Peace John",
+    "Plate No": "MGA 537 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ibrahim Bala",
+    "Plate No": "MGA 538 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Mujaheed Sani",
+    "Plate No": "MGA 542 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Shedrack Philibus",
+    "Plate No": "MGA 543 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Peter Omega Kaura",
+    "Plate No": "MGA 544 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Dogara Ezekiel",
+    "Plate No": "MGA 545 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Mudassir Shuaibu",
+    "Plate No": "MGA 548 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Bulus Nehemiah",
+    "Plate No": "MGA 551 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Suleiman Idi",
+    "Plate No": "MGA 552 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Musa Nehemiah",
+    "Plate No": "MGA 553 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Moses Samuel",
+    "Plate No": "MGA 554 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Stephen Ezra",
+    "Plate No": "MGA 555 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Aminu Abubakar",
+    "Plate No": "MGA 556 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ezekiel Danjuma",
+    "Plate No": "MGA 557 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ibrahim Joshua",
+    "Plate No": "MGA 560 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Nasiru Usman",
+    "Plate No": "MGA 561 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Mubarak Idris Ahmed",
+    "Plate No": "MGA 562 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Amos Pingana",
+    "Plate No": "MGA 563 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Solomon Ishaya",
+    "Plate No": "GRM 581 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Bashir Jafar",
+    "Plate No": "GRM 582 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Mahah Musa",
+    "Plate No": "GRM 583 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ahamad Abdullahi",
+    "Plate No": "GRM 584 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Mathew Joshua",
+    "Plate No": "GRM 585 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Bitrus Mathew",
+    "Plate No": "GRM 586 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Zilkifilu Jafar",
+    "Plate No": "GRM 587 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Innocent Joseph Garba",
+    "Plate No": "GRM 591 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Hosea Simon",
+    "Plate No": "GRM 592 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Muhammad Nafiu",
+    "Plate No": "GRM 593 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Amos Chindo",
+    "Plate No": "GRM 597 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Philimon Iko",
+    "Plate No": "GRM 598 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Monday Luka",
+    "Plate No": "GRM 599 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Safiyanu Aliyu",
+    "Plate No": "GRM 600 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Hayatu Idris",
+    "Plate No": "GRM 601 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Jamilu Sani",
+    "Plate No": "GRM 602 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Dauda Bala",
+    "Plate No": "GRM 604 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Sani Umar",
+    "Plate No": "GRM 608 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Talatu Bala",
+    "Plate No": "GRM 611 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Reuben Haruna",
+    "Plate No": "GRM 613 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Haruna Ayuba",
+    "Plate No": "GRM 614 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Timothy Nuhu",
+    "Plate No": "GRM 615 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Enoch Ezekiel",
+    "Plate No": "GRM 616 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Jamilu Idris",
+    "Plate No": "GRM 617 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Habibu Yusuf",
+    "Plate No": "GRM 618 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Magaji Abdullahi",
+    "Plate No": "GRM 619 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ibrahim Bulus",
+    "Plate No": "GRM 620 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Dauda Shedrack",
+    "Plate No": "MMR 396 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Zakariya Iliya",
+    "Plate No": "MMR 397 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Emmanuel Kent",
+    "Plate No": "MMR 398 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Victor Sati",
+    "Plate No": "MMR 399 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Babangida Dangaiya",
+    "Plate No": "MMR 403 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Daniel Bawa",
+    "Plate No": "MMR 404 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Amos Bari Haruna",
+    "Plate No": "MMR 410 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Terah Simon",
+    "Plate No": "MMR 411 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Danladi Hosea",
+    "Plate No": "MMR 413 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Rabilu Musa",
+    "Plate No": "MMR 414 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Yohanna Godiya",
+    "Plate No": "MMR 415 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ibrahim Ukasha",
+    "Plate No": "MMR 416 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Samson Kandama",
+    "Plate No": "BNW 633 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Anas Abdullahi",
+    "Plate No": "BNW 651 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ezekiel Samson",
+    "Plate No": "BNW 654 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Zayyad Abdullahi",
+    "Plate No": "RNG 148 UM",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Victor John",
+    "Plate No": "HJA-448-QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Tasiu Shuaibu",
+    "Plate No": "HJA 417 QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Shadrack Ayuba",
+    "Plate No": "GML-285 QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Musa jibril",
+    "Plate No": "KUJ 532 QH",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Salim Alhassan",
+    "Plate No": "GML-247 QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Nura mairiga",
+    "Plate No": "GML-259 QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Nuhu Bala",
+    "Plate No": "GML-242 QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Muslim Gambo",
+    "Plate No": "GML-257 QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Yunusa Abdullahi",
+    "Plate No": "GRM 252QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Simon Ezekiel",
+    "Plate No": "GYA 789 QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Muazu Solomon",
+    "Plate No": "RNG-138 UM",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Mathew Yakubu",
+    "Plate No": "HJA-404 QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Kasim Bashir",
+    "Plate No": "GML-273-QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Joseph Laazarus",
+    "Plate No": "RNG 150 UM",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Jerry Anana",
+    "Plate No": "RNG 166 UM",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Jamilu Idris",
+    "Plate No": "HJA 419 QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Lazarus Godwin",
+    "Plate No": "GYA 799 QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ishaku A. Mato",
+    "Plate No": "GML-246 QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ibrahim lukman",
+    "Plate No": "GML-261 QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Hamidu Sulaiman",
+    "Plate No": "GML 244 QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Danjuma Caleb",
+    "Plate No": "GML 274 QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Blessing Zakaria",
+    "Plate No": "RNG 149 UM",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Anas Ahmad",
+    "Plate No": "HJA 415 QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Aisha Haruna",
+    "Plate No": "GML-253-QE",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Adi Anah",
+    "Plate No": "GML-245-QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abubakar Musa",
+    "Plate No": "RGN151UM",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abubakar jafar",
+    "Plate No": "GML-250 QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abel Zakka",
+    "Plate No": "AJA 447 QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abdullahi Garba",
+    "Plate No": "HJA-414-QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Salihu Muktar",
+    "Plate No": "GYA 775 QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2019,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Bashir Mohammed",
+    "Plate No": "GYA 785 QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2019,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Muktar Adamu",
+    "Plate No": "GYA 773 QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2019,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Yohanna Bulus",
+    "Plate No": "GYA 796 QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2019,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Micah Shehu",
+    "Plate No": "GYA 807 QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2019,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Haruna Muhammad",
+    "Plate No": "GYA 502 QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2019,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Isitfanus sani",
+    "Plate No": "BNW 659 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Musbahu Muhammad",
+    "Plate No": "BNW 656 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ishaya Yohanna",
+    "Plate No": "BNW 661 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Mustapha Shuaibu",
+    "Plate No": "BNW 657 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Khalid Ahmad",
+    "Plate No": "BNW 720 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Yusuf Philibus",
+    "Plate No": "BNW 663 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Adamu Adullahi",
+    "Plate No": "TAR 576 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abdurrahman Ahmed",
+    "Plate No": "BNW 689 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Zakariya Yohanna",
+    "Plate No": "BNW 664 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Moses Abundu",
+    "Plate No": "BNW 660 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abubakar ibrahim Dogondawa",
+    "Plate No": "BNW 688 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Suleiman A. Ahmad",
+    "Plate No": "BNW 696 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Jonathan Musa",
+    "Plate No": "BNW 693 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Shuaibu Muhammad",
+    "Plate No": "BNW 699 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ayuba Bitrus",
+    "Plate No": "BNW 692 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Nehemiah Lazarus",
+    "Plate No": "BNW 697 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ibrahim Muktar",
+    "Plate No": "BNW 687 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Sani Ibrahim Salisu",
+    "Plate No": "BNW 686 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Kefas Daniel",
+    "Plate No": "BNW 700 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Luka Yahaya",
+    "Plate No": "BNW 685 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Anas Dayyabu",
+    "Plate No": "BNW 691 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Muhammad Sabiu",
+    "Plate No": "BNW 658 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Nuhu Umar",
+    "Plate No": "TAR 577 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Umar lawal",
+    "Plate No": "BNW 713 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ubaidu Abdullahi",
+    "Plate No": "TAR 575 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Uzairu Shafi'u",
+    "Plate No": "BNW 712 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Amos Habila",
+    "Plate No": "BNW 716 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abdulmalik Auta",
+    "Plate No": "BNW 718 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Sulaiman Musa",
+    "Plate No": "BNW 717 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Rabiu Yahuza",
+    "Plate No": "BNW 721 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Aminu Auwal Adam",
+    "Plate No": "BNW 719 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Aisaru Tukur",
+    "Plate No": "BNW 695 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Suleiman Nasir",
+    "Plate No": "BNW 715 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Tukur Magaji",
+    "Plate No": "BNW 698 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Yakubu Dauda Ibrahim",
+    "Plate No": "BNW 711 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Nazifi Abubakar",
+    "Plate No": "BNW 714 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abubakar saleh",
+    "Plate No": "GML 293 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Lazarus iliya",
+    "Plate No": "BBR 227 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Nuhu Ishaya",
+    "Plate No": "GML 334 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Zakariya Markus",
+    "Plate No": "GML 333 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Timothy Ibrahim Zakari",
+    "Plate No": "GML 335 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Sadiq Daniel",
+    "Plate No": "GML 292 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Basiru Shu,aibu",
+    "Plate No": "GML 338 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Iliyasu Garba",
+    "Plate No": "GML 328 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Jibril Adam",
+    "Plate No": "GML 332 VD",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ibrahim bello jaji",
+    "Plate No": "BBR 228 VC",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Aminu A. Kantaga",
+    "Plate No": "HJA 487 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Suleiman Abdulsalam",
+    "Plate No": "HJA 488 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Yunusa Usman",
+    "Plate No": "HJA 489 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abbas Shehu",
+    "Plate No": "HJA 493 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Aminu Abdullahi",
+    "Plate No": "HJA 495 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ismail Gambo",
+    "Plate No": "HJA 496 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Hussaini lawal",
+    "Plate No": "HJA 497 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abubakar Haruna",
+    "Plate No": "HJA 498 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Nehemiah Yohanna",
+    "Plate No": "MGA 528 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "mika Luka",
+    "Plate No": "GRM 595 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Musa G. Dauda",
+    "Plate No": "GRM 610 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Kabir Abdullahi Umar",
+    "Plate No": "MGA 541 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Isah. D Ibrahim",
+    "Plate No": "MGA 539 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Luka Micheal",
+    "Plate No": "MGA 521 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Daniel Philibus",
+    "Plate No": "MGA 549 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Yusuf Haruna",
+    "Plate No": "MGA 558 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ibrahim Garba G.",
+    "Plate No": "GRM 606 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abdullahi Bala",
+    "Plate No": "MMR 408 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Bilyaminu Chindo",
+    "Plate No": "GRM 589 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Peter Garba",
+    "Plate No": "GRM 594 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Yakubu Ibrahim Makarfi",
+    "Plate No": "MMR 405 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Samaila Suleiman",
+    "Plate No": "MGA 546 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Sabitu Alhassan",
+    "Plate No": "GRM 596 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Yahaya Mamuda",
+    "Plate No": "GRM 588 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Hamisu Abdulkadir",
+    "Plate No": "MGA 527 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Simon yohanna",
+    "Plate No": "KHS 506 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Jafar Sibawaihi",
+    "Plate No": "MMR 409 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Irmiya Garba",
+    "Plate No": "GRM 603 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Anthony Ishaya",
+    "Plate No": "MMR 412 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Muhammad Dalhtu",
+    "Plate No": "MGA 550 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Irmiya Dauda",
+    "Plate No": "MMR 400 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Istifanus Shehu",
+    "Plate No": "MMR 406 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Musa suleman",
+    "Plate No": "GRM 605 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Zakaria Emmanuel",
+    "Plate No": "MGA 547 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Nuhu Usaini",
+    "Plate No": "MGA 540 XY",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Danladi Iliya",
+    "Plate No": "MMR 402 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Sule Samaila",
+    "Plate No": "GRM 607 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Sani Usman",
+    "Plate No": "GRM 609 VF",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Philibus Yakubu",
+    "Plate No": "MMR 407 WZ",
+    "Bike Type": "New Bajaj",
+    "Year": 2021,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Sani Muhammad",
+    "Plate No": "GWN 703 UU",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ibrahim Hashimu",
+    "Plate No": "GWN 705 UU",
+    "Bike Type": "old OCP",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Bello Salisu Sani",
+    "Plate No": "HJA 442- QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Alyasau Yusuf",
+    "Plate No": "HJA436QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Yusuf Aliyu",
+    "Plate No": "GML 255 QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Imrana Rabiu",
+    "Plate No": "HJA 434 QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Yahaya Ibrahim",
+    "Plate No": "HJA 439 QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Masud Yau",
+    "Plate No": "HJA 411 QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Umar Husseini",
+    "Plate No": "RNG 158 UM",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Sabitu Tanimu",
+    "Plate No": "HJA 441 QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abdu Ibrahim",
+    "Plate No": "HJA438Q",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Kabiru Ayuba",
+    "Plate No": "HJA 433QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Sunday Dauda",
+    "Plate No": "HJA 443 QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abdulrauf Dahiru",
+    "Plate No": "GML-265QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Simon Yusuf",
+    "Plate No": "HJA 450 QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Iliyasu Abubakar",
+    "Plate No": "HJA 435 QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ahmad Dardau",
+    "Plate No": "HJA 420QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Musa Isiya",
+    "Plate No": "HJA 449 QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Bilyaminu Ibrahim",
+    "Plate No": "GML 264 QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Mathew Gabriel",
+    "Plate No": "RNG 155 UM",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Zakaria Magaji",
+    "Plate No": "HJA416QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Adamu Salisu",
+    "Plate No": "RNG 157 UM",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Aminu Umar",
+    "Plate No": "RNG 151 UM",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Musa Salisu YP",
+    "Plate No": "HJA 418 QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Amos Yahaya",
+    "Plate No": "RNG160Um",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ibrahim Hamshimu",
+    "Plate No": "GWN 701 UU",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Surajo Haruna",
+    "Plate No": "KUJ 605 QC",
+    "Bike Type": "Old OCP",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Mubarak Abubakar",
+    "Plate No": "RBC951QM",
+    "Bike Type": "old OCP",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Abubakar Aliyu",
+    "Plate No": "RBG9230 QM",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "George A Emmanuel",
+    "Plate No": "GML277QC",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Dalhatu Rabiu",
+    "Plate No": "GYA 798 QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Yusuf Sani",
+    "Plate No": "GYA804QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Ishaya Hassan Daniel",
+    "Plate No": "GYA800QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Yushua Ayuba",
+    "Plate No": "KAR508qk",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Moses Makama",
+    "Plate No": "GYA 791 QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Yakubu Musa",
+    "Plate No": "GYA 802 QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Gideon Nuhu",
+    "Plate No": "ZAR 144QK",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Adamu Usman",
+    "Plate No": "NO PLATE[ NO.[",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Anas Yahaya",
+    "Plate No": "GYA793QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Bilyaminu Abdulkarim",
+    "Plate No": "#N/A",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Bilyaminu Ishaku",
+    "Plate No": "#N/A",
+    "Bike Type": "Old Bajaj",
+    "Year": 2019,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Buhari Abubakar",
+    "Plate No": "#N/A",
+    "Bike Type": "Old Bajaj",
+    "Year": 2019,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Danjunmai Bala",
+    "Plate No": "#N/A",
+    "Bike Type": "Old Bajaj",
+    "Year": 2019,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Dauda Villawos",
+    "Plate No": "#N/A",
+    "Bike Type": "old OCP",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Emmanuel Yohanna",
+    "Plate No": "#N/A",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Hussaini Ibrahim",
+    "Plate No": "HJA403QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Iliya Yunusa",
+    "Plate No": "#N/A",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Inusa Iliya",
+    "Plate No": "#N/A",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Jamilu Yusuf",
+    "Plate No": "HJA-444QZ",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "John Daniel",
+    "Plate No": "#N/A",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "SAMINAKA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "John Manasseh",
+    "Plate No": "RNG-159UM",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Jonathan Bulus",
+    "Plate No": "#N/A",
+    "Bike Type": "old OCP",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "Makarfi",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Maharazu haruna",
+    "Plate No": "#N/A",
+    "Bike Type": "Old Bajaj",
+    "Year": 2019,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Mubarak Nuhu",
+    "Plate No": "KUJ530QH",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Muhammed Mustafa",
+    "Plate No": "#N/A",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Rabiu Hassan",
+    "Plate No": "#N/A",
+    "Bike Type": "Old Bajaj",
+    "Year": 2019,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Samaila Rayannu",
+    "Plate No": "#N/A",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Sani Umar",
+    "Plate No": "GYA812QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Yahuza Nura",
+    "Plate No": "GYA813QA",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  },
+  {
+    "Name": "Yusuf Khalid",
+    "Plate No": "#N/A",
+    "Bike Type": "Old Bajaj",
+    "Year": 2020,
+    "Season": "Wet Season",
+    "Zone": "PAMBEGUA",
+    "STATE": "KADUNA ",
+    "Brand type": "BAJAJ 100CC Boxer BM 100"
+  }
+ ]

@@ -3,8 +3,8 @@ import React from 'react'
 import face from '../assets/face2.webp'
 import logo from '../assets/talogo.png'
 
-export default function RiderProfile({ name, id, location, setList }){
-
+export default function RiderProfile({ rider, setList }){
+    const { Name, STATE, Zone } = rider
     return(
         <div className="profile">
             <h1 onClick={() => setList(true)}>{'<< Back'}</h1>
@@ -12,9 +12,12 @@ export default function RiderProfile({ name, id, location, setList }){
                 <img className="face" alt="face" src={face} />
                 <img className="logo" alt="logo" src={logo} />
             </div>
-            <p>Name: {name}</p>
-            <p>Location: {location}</p>
-            <p>Rider ID: {id}</p>
+            <p>Name: {Name}</p>
+            <p>Location: {STATE}</p>
+            <p>Zone: {Zone}</p>
+            <p>Brand: {rider["Brand type"]}</p>
+            <p>Plate No: {rider["Plate No"]}</p>
+            <p>Bike: {rider["Bike Type"]}</p>
         </div>
     )
 }
